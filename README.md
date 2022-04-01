@@ -1,11 +1,13 @@
 ### Olá eu sou o Thiago Vieira 👋
 #### Seja bem vindo ao meu repositório 😊
 - 🌱 Estudante de Engenharia de Software na Unicesumar e cursos de programação pela Udemy entre outras Instituições.
+<br>
 <div align="left">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoCod&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagocod&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoCod&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagocod&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+<br>
 <div>
     <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
     <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
