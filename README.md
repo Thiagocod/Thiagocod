@@ -21,5 +21,5 @@
   
 </div>
 <div>
-    ![Snake animation](https://github.com/Thiagocod/Thiagocod/output/github-contribution-grid-snake.svg)
+    <img src = "https://github.com/Thiagocod/Thiagocod/blob/output/github-contribution-grid-snake.svg" alt="Snake contributions"/>
 </div>
