@@ -21,7 +21,7 @@
   
 </div>
 <div>
-    ![github contribution grid snake animation](https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg)
+    ![github contribution grid snake animation](https://raw.githubusercontent.com/Thiagocod/Thiagocod/output/github-contribution-grid-snake.svg)
 </div>
   
   
