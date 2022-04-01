@@ -18,10 +18,10 @@
     <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
     <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+  
 </div>
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/Thiagocod/Thiagocod/output/github-contribution-grid-snake.svg)
 <div>
-   
+    ![github contribution grid snake animation](https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg)
 </div>
   
   
