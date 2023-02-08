@@ -2,7 +2,7 @@
 #### Seja bem vindo ao meu repositório 😊
 - 🌱 Estudante de Engenharia de Software na Unicesumar e cursos de programação pela Udemy entre outras Instituições.
 <br>
-<div align="center">
+<div align="left">
   <a href="https://github.com/Thiagocod">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoCod&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagocod&layout=compact&langs_count=7&theme=github_dark"/>
