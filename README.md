@@ -21,6 +21,5 @@
   
 </div>
 <div>
-    <img src = "https://github.com/Thiagocod/Thiagocod/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake contributions"/>
-  
+    <img src = "https://github.com/Thiagocod/Thiagocod/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake contributions"/>  
 </div>
