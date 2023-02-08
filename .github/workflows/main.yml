@@ -5,6 +5,11 @@ on:
   schedule:
     - cron: "0 */12 * * *" 
   
+  
+  push:
+    branches:
+    - master
+  
   # allows to manually run the job at any time
   workflow_dispatch:
     
